@@ -7,4 +7,3 @@ nltk
 gensim
 jupyter
 textblob
-pytest
